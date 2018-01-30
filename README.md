@@ -74,3 +74,4 @@ Results:
 - stacktrace is thrown in apache-tomee-1.7.5 , too
 - with jodd 3.9.1, no exception is thrown
 - with jodd 4.0.0, an exception (see above) is thrown
+- with jodd 4.1.0, an exception (see above) is thrown
