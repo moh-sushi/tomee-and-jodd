@@ -44,3 +44,9 @@ Therefore the exception (see above) is thrown
 resolution:
 
 Remove the classes under `META-INF/versions` from artefact `jodd-core`
+
+
+note:
+
+jodd team is trying to solve this issue - see https://github.com/oblac/jodd/issues/567!
+
