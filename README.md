@@ -37,6 +37,9 @@ Results:
 
 explanation:
 
-in jodd-core there are java 9 class files (META-INF directory) for running jodd in Java 9.
+in jodd-core there are java 9 class files (`META-INF` directory) for running jodd in Java 9.
 But these classes are read by asm5 (from openejb). and asm5 can not read Java 9 class files.
 Therefore the exception (see above) is thrown
+
+resolution:
+Remove the classes under `META-INF/versions` from artefact `jodd-core`
