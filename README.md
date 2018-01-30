@@ -68,3 +68,7 @@ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catal
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
+
+
+Results:
+- stacktrace is thrown in apache-tomee-1.7.5 , too
