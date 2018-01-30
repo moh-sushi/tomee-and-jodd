@@ -42,4 +42,5 @@ But these classes are read by asm5 (from openejb). and asm5 can not read Java 9 
 Therefore the exception (see above) is thrown
 
 resolution:
+
 Remove the classes under `META-INF/versions` from artefact `jodd-core`
