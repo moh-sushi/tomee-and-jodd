@@ -8,6 +8,8 @@ steps to reproduce:
 - start tomee via `$CATALINA_HOME/bin/catalina.(sh|bat) jpda start`
 
 
+following stacktrace is thrown
+
 >  Jan 30, 2018 9:44:16 AM org.apache.openejb.util.JarExtractor extract
 INFORMATION: Extracted path: c:\dev\apache-tomee-plus-1.7.4-asm6-test\webapps\jodd411
 Jan 30, 2018 9:44:16 AM org.apache.catalina.core.ContainerBase addChildInternal
