@@ -9,6 +9,7 @@ steps to reproduce:
 
 
 full stacktrace : see [stacktrace.txt](stacktrace.txt)
+
 snippet:
 
 `Caused by: java.lang.IllegalArgumentException
