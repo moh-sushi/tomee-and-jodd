@@ -8,7 +8,7 @@ steps to reproduce:
 - start tomee via `$CATALINA_HOME/bin/catalina.(sh|bat) jpda start`
 
 
-following stacktrace is thrown
+following stacktrace is thrown:
 
 >  Jan 30, 2018 9:44:16 AM org.apache.openejb.util.JarExtractor extract
 INFORMATION: Extracted path: c:\dev\apache-tomee-plus-1.7.4-asm6-test\webapps\jodd411
@@ -72,3 +72,4 @@ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catal
 
 Results:
 - stacktrace is thrown in apache-tomee-1.7.5 , too
+- with jodd 3.9.1, no exception is thrown
