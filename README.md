@@ -1,5 +1,5 @@
 # tomee-and-jodd
-example project for Apache TomEE and Jodd -> asm problems
+example project for Apache TomEE and [Jodd](https://www.jodd.org) -> asm problems
 
 steps to reproduce:
 - download and install [Apache TomEE plus Edition 1.7.4 ](http://repo.maven.apache.org/maven2/org/apache/openejb/apache-tomee/1.7.4/apache-tomee-1.7.4-plus.zip)
