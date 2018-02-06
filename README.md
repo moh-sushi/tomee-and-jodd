@@ -50,3 +50,5 @@ note:
 
 jodd team is trying to solve this issue - see https://github.com/oblac/jodd/issues/567!
 
+*issue is solved! use Jodd 4.1.4+ :-)*
+
